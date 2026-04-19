@@ -1,6 +1,12 @@
 # FollowThru
 Turns “I’ll do it later” into action.
 
+## Demo: 
+
+https://youtu.be/mPxfkH-K-zc
+
+
+
 ## Description:
 
 FollowThru is an AI-powered iMessage integration built using Spectrum’s Photon messaging SDK for TypeScript [Photon Repo] (https://github.com/photon-hq/spectrum-ts). It monitors conversations, detects when a user makes a commitment, and extracts deadlines using Gemini 2.5 Flash Lite.
