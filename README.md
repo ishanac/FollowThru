@@ -1,5 +1,5 @@
 # FollowThru
-Turns “I’ll do it later” into consequences.
+Turns “I’ll do it later” into action.
 
 ## Description:
 
